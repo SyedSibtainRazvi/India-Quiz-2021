@@ -4,4 +4,6 @@
 The modules I have used in this are:
 1. [readline-Sync](https://www.npmjs.com/package/readline-sync)
 1. [Chalk](https://www.npmjs.com/package/chalk)
+___
 I have made it using [Replit](https://replit.com/~) which is a simple yet powerful online IDE
+***
