@@ -45,7 +45,7 @@ var questions = [{
   question: "How many UT's are there in India? -> 1)8 2)7 3)9 ",
   answer: "1"
 }, {
-  question: "Whic is the National animal of India? -> 1)Elephant 2)Lion 3)Tiger",
+  question: "Which is the National animal of India? -> 1)Elephant 2)Lion 3)Tiger",
   answer: "3"
 }, {
   question: "Which is the Highest peak in India? -> 1)Nun Kun 2)Kanchenjunga 3)Kedarnath",
